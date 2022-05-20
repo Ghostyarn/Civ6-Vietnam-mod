@@ -1,0 +1,53 @@
+[
+	{
+			//nations
+			"name": "Vietnam",
+			"leaderName": "Bà Triệu",
+			"adjective": ["Vietnamese"],
+			"startBias": ["Woods", "Rainforest", "Marsh"],
+			"preferredVictoryType": "Cultural",
+			
+			"declaringWar": "Now you are at war with Vietnam. Do you hear our trumpets? The thunder of our elephants? They are coming for you!",
+			"attacked": "I have waited for this day for a long time. Today begins the war that will end in your destruction.",
+			"defeated": "Do you think you have defeated me? I will ascend to heaven, and become the immortal spirit of our resistance!",
+			"introduction": "I am Lady Trieu, the general who wears the golden robe. Welcome to Vietnam.",		
+			"neutralHello": "Our spears unite against our foes!",
+			"hateHello": "You cannot content yourself with ruling your people, but you must interfere with mine as well? I shall tell the world of your crimes!",
+			"tradeRequest": "Vietnam's delegation approaches, bearing bird's nest soup, abalone, deer's tendon, and water from the Hàm Long well.",
+			"outerColor": [116,6,114],
+			"innerColor": [244,219,4],
+			"uniqueName": "Nine Dragon River Delta",
+			"uniqueText": "Specialty districts constructed on Woods, Rainforests, and Marshes recieve +1 Culture, +1 Science, and +1 Production respectively.
+			",
+			"uniques": [
+				"[+1 Science] from every [Campus] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Commercial Hub] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Theatre Square] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Holy Site] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Industrial Zone] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Entertainment Complex] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Aerodrome] <in [Rainforest] tiles>",
+				"[+1 Science] from every [Spaceport] <in [Rainforest] tiles>",
+				
+				"[+1 Culture] from every [Campus] <in [Woods] tiles>",
+				"[+1 Culture] from every [Commercial Hub] <in [Grassland] [Woods] tiles>",
+				"[+1 Culture] from every [Theatre Square] <in [Woods] tiles>",
+				"[+1 Culture] from every [Holy Site] <in [Woods] tiles>",
+				"[+1 Culture] from every [Industrial Zone] <in [Woods] tiles>",
+				"[+1 Culture] from every [Entertainment Complex] <in [Woods] tiles>",
+				"[+1 Culture] from every [Aerodrome] <in [Woods] tiles>",
+				"[+1 Culture] from every [Spaceport] <in [Woods] tiles>",
+				
+				"[+1 Production] from every [Campus] <in [Marsh] tiles>",
+				"[+1 Production] from every [Commercial Hub] <in [Marsh] tiles>",
+				"[+1 Production] from every [Theatre Square] <in [Marsh] tiles>",
+				"[+1 Production] from every [Holy Site] <in [Marsh] tiles>",
+				"[+1 Production] from every [Industrial Zone] <in [Marsh] tiles>",
+				"[+1 Production] from every [Entertainment Complex] <in [Marsh] tiles>",
+				"[+1 Production] from every [Aerodrome] <in [Marsh] tiles>",
+				"[+1 Production] from every [Spaceport] <in [Marsh] tiles>",
+			],
+			"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
+				"Mỹ Tho","Quy Nhơn","Sài Gòn"]
+		}
+]
