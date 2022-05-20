@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Thanh District",
+		"replaces": "Encampment District",
+		"uniqueTo": "Vietnam",
+		"cost": 27,
+		"requiredResource": "Districts",
+		"maintenance": 1,
+		"requiredTech": "Bronze Working",
+		"uniques": [
+			"Creates a [Thanh] improvement on a specific tile",
+			"Unsellable",
+			"Cannot be purchased",
+			"Never destroyed when city is captured",
+			"[+2 Culture] for each adjacent [Great Improvement]",
+			"[+2 Culture] for each adjacent [Great Improvement] <after discovering [Flight]>",
+			"[+1 Production, +2 Gold] per [1] population [in this city]", 
+			/*
+			"[+1 Production] from [Trade Route (Domestic)] tiles in this city",
+			"[+1 Production] from [Trade Route (International)] tiles in this city"
+			*/
+		]
+	}
+]
