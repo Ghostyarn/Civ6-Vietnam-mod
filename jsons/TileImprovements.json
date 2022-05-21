@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Thanh",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
 			"Tile provides yield without assigned population",
