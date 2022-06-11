@@ -4,7 +4,8 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
-			"Tile provides yield without assigned population",
+                        "Irremovable",
+      			"Tile provides yield without assigned population",
                         "Cannot be built on [Mountain] tiles",
                         "Removes removable features when built",
 			"[+2 Culture] for each adjacent [Great Improvement]",
