@@ -14,8 +14,8 @@
 		"neutralHello": "Our spears unite against our foes!",
 		"hateHello": "You cannot content yourself with ruling your people, but you must interfere with mine as well? I shall tell the world of your crimes!",
 		"tradeRequest": "Vietnam's delegation approaches, bearing bird's nest soup, abalone, deer's tendon, and water from the Hàm Long well.",
-		"outerColor": [116,6,114],
-		"innerColor": [244,219,4],
+		"outerColor": [244,219,4],
+		"innerColor": [116,6,114],
 		"uniqueName": "Nine Dragon River Delta",
 		"uniqueText": "Specialty districts constructed on Woods, Rainforests, and Marshes recieve +1 Culture, +1 Science, and +1 Production respectively.
 		\nDrive Out The Aggressors:
